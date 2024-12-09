@@ -1,0 +1,31 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: darkgoldenrod;
+}
+header{
+    background-color: darkgoldenrod;
+    color:white;
+    text-align: center;
+    padding: 10px;
+
+}
+a{
+    text-decoration: none;
+    color:darkgoldenrod;
+    margin: 2cm;
+
+}
+h1{
+    font-size: 10p;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    margin: 1cm
+}
+img{
+    height: 2cm;
+    width: 2cm;
+}
